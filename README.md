@@ -9,7 +9,7 @@ This load balancer serves users query on backend servers.
 ## Usage
 The load-balancer can be used as a package published on Github Container 
 
-Registry available at: ``
+Registry available at: `ghcr.io/zdenekvavricka/dce-semestralka_1-load_balancer:v1.0.1`
 
 ---
 
