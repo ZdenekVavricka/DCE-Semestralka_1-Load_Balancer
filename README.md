@@ -1,6 +1,6 @@
 # DCE-Semestralka_1-Load-balancer
-
 Simple load-balancer using Nginx
+
 It is a part of bigger semester work: [dce-semestralka_1](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
 
 ## Function
