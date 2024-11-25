@@ -1,7 +1,7 @@
 events {}
 http {
     upstream backends {
-        %{ for ip in backend_nodes ~}
+        %{ for ip in backend-nodes ~}
         server ${ip}:5000;
         %{ endfor ~}
     }
